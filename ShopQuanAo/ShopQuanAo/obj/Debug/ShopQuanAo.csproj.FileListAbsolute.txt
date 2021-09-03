@@ -1,0 +1,6 @@
+C:\Users\limki\Desktop\web\DoAnWeb\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll.config
+C:\Users\limki\Desktop\web\DoAnWeb\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\limki\Desktop\web\DoAnWeb\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\limki\Desktop\web\DoAnWeb\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\limki\Desktop\web\DoAnWeb\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\limki\Desktop\web\DoAnWeb\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb

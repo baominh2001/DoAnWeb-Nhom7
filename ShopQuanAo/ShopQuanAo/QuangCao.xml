@@ -1,0 +1,75 @@
+﻿<Advertisements>
+  <Ad>
+    <ImageUrl>images\mau_1.jpg</ImageUrl>
+    <NavigateUrl>http://vnexpress.net</NavigateUrl>
+    <AlternateText>Báo vnexpress</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic1</Keyword>
+    <Caption>Topic 1</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images\mau_2.jpg</ImageUrl>
+    <NavigateUrl>http://dantri.com.vn</NavigateUrl>
+    <AlternateText>Báo dân trí</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic2</Keyword>
+    <Caption>Topic 2</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images\mau_3.jpg</ImageUrl>
+    <NavigateUrl>http://dantri.com.vn</NavigateUrl>
+    <AlternateText>Báo dân trí</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic3</Keyword>
+    <Caption>Topic 3</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images\mau_4.jpg</ImageUrl>
+    <NavigateUrl>http://dantri.com.vn</NavigateUrl>
+    <AlternateText>Báo dân trí</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic4</Keyword>
+    <Caption>Topic 4</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images\mau_5.jpg</ImageUrl>
+    <NavigateUrl>http://dantri.com.vn</NavigateUrl>
+    <AlternateText>Báo dân trí</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic5</Keyword>
+    <Caption>Topic 5</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images\mau_6.jpg</ImageUrl>
+    <NavigateUrl>http://dantri.com.vn</NavigateUrl>
+    <AlternateText>Báo dân trí</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic6</Keyword>
+    <Caption>Topic 6</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images\mau_7.jpg</ImageUrl>
+    <NavigateUrl>http://dantri.com.vn</NavigateUrl>
+    <AlternateText>Báo dân trí</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic7</Keyword>
+    <Caption>Topic 7</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images\mau_8.jpg</ImageUrl>
+    <NavigateUrl>http://dantri.com.vn</NavigateUrl>
+    <AlternateText>Báo dân trí</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic8</Keyword>
+    <Caption>Topic 8</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images\mau_9.jpg</ImageUrl>
+    <NavigateUrl>http://dantri.com.vn</NavigateUrl>
+    <AlternateText>Báo dân trí</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic9</Keyword>
+    <Caption>Topic 9</Caption>
+  </Ad>
+</Advertisements>
